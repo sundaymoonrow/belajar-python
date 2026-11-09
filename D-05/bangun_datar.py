@@ -6,3 +6,4 @@ def luas_lingkaran(r):
 hasil = luas_lingkaran(10)
 print(hasil)
 print(round(hasil))
+

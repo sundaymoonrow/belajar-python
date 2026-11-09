@@ -9,7 +9,7 @@ def kuadrat(x):
 hasil = kuadrat(3)
 print(hasil)
 
-def pangkat(angka, pangkat=2):
+def pangkat(angka, pangkat = 2):
     return angka ** pangkat
 
 print(pangkat(3)) # Hasilnya 9

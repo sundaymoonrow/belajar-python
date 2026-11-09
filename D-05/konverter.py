@@ -32,5 +32,4 @@ while True:
         break
     else:
         print("Input tidak valid")
-        break
-    
+        
