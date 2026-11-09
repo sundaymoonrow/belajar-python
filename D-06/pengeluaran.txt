@@ -1,0 +1,4 @@
+07-11|Makan pagi|10000
+07-11|Makan Siang|15000
+07-11|Topup Bibit|500000
+07-11|Investasi Saham|750000
